@@ -13,7 +13,7 @@ Soy desarollador de aplicaciones multiplataforma, y estoy empezando en este gran
 - **Correo electrónico:** vrubinr501@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/victor-rubin-rubio-598279261/
 
--- 
+---
 
 _ Muchas gracias por visitar mi perfil! _
 <!--
