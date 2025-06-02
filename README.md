@@ -1,4 +1,4 @@
-# !Hola, soy Victor¡
+# ¡Hola, soy Víctor!
 Soy desarollador de aplicaciones multiplataforma, y estoy empezando en este gran mundo de la programación. Tengo muchas ganas de aprender.
 
 ---
