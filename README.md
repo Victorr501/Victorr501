@@ -12,6 +12,7 @@ Soy desarollador de aplicaciones multiplataforma, y estoy empezando en este gran
 - **Telefono:** 696 56 93 01
 - **Correo electrónico:** vrubinr501@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/victor-rubin-rubio-598279261/
+- **Repositorio** https://victorr501.github.io/
 
 ---
 
