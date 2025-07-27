@@ -3,7 +3,7 @@ Soy desarollador de aplicaciones multiplataforma, y estoy empezando en este gran
 
 ---
 ## Mis habilidaddes principales
-- **Lenguajes:** Java, HTML, CSS, SQL
+- **Lenguajes:** Java, Python, HTML, CSS, SQL
 - **Librerias:** Spring Boot
 - **Herramientas:** Docker, Git, VS Code, Intelj
 
