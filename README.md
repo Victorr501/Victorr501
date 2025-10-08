@@ -3,9 +3,9 @@ Soy desarollador de aplicaciones multiplataforma, y estoy empezando en este gran
 
 ---
 ## Mis habilidaddes principales
-- **Lenguajes:** Java, Python, HTML, CSS, SQL
-- **Librerias:** Spring Boot
-- **Herramientas:** Docker, Git, VS Code, Intelj
+- **Lenguajes:** C#, Razor, Java, Python, HTML, CSS, SQL
+- **Librerias:** Spring Boot, APIFast, .Net, Blazored, React Native
+- **Herramientas:** Docker, Git, VS Code, Intelj, Visual Studio 2022
 
 ---
 ## Contacta Conmigo
