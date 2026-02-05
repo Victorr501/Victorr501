@@ -11,7 +11,7 @@ Soy desarollador de aplicaciones multiplataforma, y estoy empezando en este gran
 ## Contacta Conmigo
 - **Correo electrónico:** vrubinr501@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/victor-rubin-rubio-598279261/
-- **Repositorio** https://victorr501.github.io/
+- **Porfolio** https://victorr501.github.io/
 
 ---
 
