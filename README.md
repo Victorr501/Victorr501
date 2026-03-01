@@ -10,6 +10,7 @@ Soy un apasionado de la tecnología dando sus primeros pasos en este gran univer
 
 **Lenguajes y Maquetación:**
 <br/>
+<br/>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,12 +20,14 @@ Soy un apasionado de la tecnología dando sus primeros pasos en este gran univer
 
 **Frameworks y Librerías:**
 <br/>
+<br/>
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Herramientas y Entornos:**
+<br/>
 <br/>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -37,6 +40,9 @@ Soy un apasionado de la tecnología dando sus primeros pasos en este gran univer
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victorr501&theme=radical" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Victorr501&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-program?username=Victorr501&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Victorr501&theme=radical&utcOffset=1" />
 </p>
 
 ---
