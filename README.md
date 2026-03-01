@@ -33,7 +33,11 @@ Soy un apasionado de la tecnología dando sus primeros pasos en este gran univer
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorr501&show_icons=true&theme=radical" alt="Estadísticas de Víctor" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Victorr501&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de Víctor" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorr501&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victorr501&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -49,5 +53,4 @@ Soy un apasionado de la tecnología dando sus primeros pasos en este gran univer
 ---
 <p align="center">
   <b>¡Gracias por visitar mi perfil! </b><br>
-  <i>"El código es poesía, y yo apenas estoy aprendiendo a escribir mis primeros versos."</i>
 </p>
