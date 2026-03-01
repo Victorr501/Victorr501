@@ -1,65 +1,72 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=¡Hola,%20soy%20Víctor!&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=%C2%A1Hola,%20soy%20V%C3%ADctor!&fontSize=70&fontAlignY=35&animation=twinkling" width="100%" />
 </p>
 
-## 🚀 Sobre mí
+### 🚀 Desarrollador de Aplicaciones Multiplataforma en constante evolución
 
-Soy **Desarrollador de Aplicaciones Multiplataforma** en plena fase de expansión. Me apasiona transformar ideas en código y siempre estoy buscando el siguiente lenguaje o herramienta para dominar. Mi objetivo es construir software eficiente, escalable y con una gran experiencia de usuario.
+Soy un apasionado de la tecnología dando sus primeros pasos en este gran universo de la programación. Mi enfoque actual es absorber conocimientos como una esponja y construir soluciones que marquen la diferencia. **¡Siempre estoy listo para un nuevo reto!**
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+### 🛠️ Mi Stack Tecnológico
 
-### 💻 Lenguajes y Maquetación
+**🔹 Lenguajes y Maquetación**
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 📚 Frameworks y Librerías
+**🔹 Frameworks y Librerías**
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
 
-### 🔧 Herramientas y DevOps
+**🔹 Herramientas y Entornos**
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="### 🎨 Mi Actividad en GitHub
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victorr501&theme=radical" width="400px" /></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Victorr501&theme=radical" width="400px" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-program?username=Victorr501&theme=radical" width="400px" /></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Victorr501&theme=radical&utcOffset=1" width="400px" /></td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victorr501&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Victorr501&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-program?username=Victorr501&theme=radical" width="32%" />
 </div>
 
 ---
 
-## 📫 Hablemos
+### 📫 Conecta conmigo
 
-¿Tienes alguna idea interesante o simplemente quieres saludar? ¡Adelante!
+¡Me encantaría charlar sobre proyectos, colaboraciones o simplemente compartir un café virtual!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rubin-rubio-598279261/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victorr501.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrubinr501@gmail.com)
+<p align="left">
+  <a href="https://victorr501.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/victor-rubin-rubio-598279261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vrubinr501@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%" />
-  <br>
-  <i>"El éxito es la suma de pequeños esfuerzos repetidos día tras día."</i>
+  <b>¡Muchas gracias por visitar mi perfil!</b> 😊<br>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" width="60%" />
 </p>
