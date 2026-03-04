@@ -43,7 +43,6 @@ Soy un apasionado de la tecnología dando sus primeros pasos en este gran univer
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victorr501&theme=radical" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Victorr501&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-program?username=Victorr501&theme=radical" width="32%" />
 </div>
 
 ---
