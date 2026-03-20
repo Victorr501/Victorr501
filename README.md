@@ -52,7 +52,7 @@ Soy un apasionado de la tecnología dando sus primeros pasos en este gran univer
 ¡Me encantaría charlar sobre proyectos, colaboraciones o simplemente compartir un café virtual!
 
 <p align="left">
-  <a href="https://victorr501.github.io/" target="_blank">
+  <a href="https://victorrubin-deejedgugtfge3fg.spaincentral-01.azurewebsites.net/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/victor-rubin-rubio-598279261/" target="_blank">
